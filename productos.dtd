@@ -1,0 +1,3 @@
+<!ELEMENT productos (producto+)>
+<!ELEMENT productos (producto | raton | teclado | monitor)>
+<!ELEMENT producto()>
